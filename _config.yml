@@ -15,7 +15,7 @@ github_username:  leevra
 facebook_app_id: 
 favicon:     "/images/favicon.ico"
 aboutme: 	이상한 홈페이지 제작업체 만나서 <br>사이트 제작 늦어지고 <br>쇼핑몰 망하면 얼마나 억울해요?  # these are shown on aboutme-sidebar.
-aboutme_photo: /images/main.jpg # your photo.
+aboutme_photo: https://cdn.pixabay.com/photo/2015/05/26/09/05/doctor-784329_960_720.png # your photo.
 google_analytics_key:   # put YOUR key here to enable tracking! (blank to disable)
 
 
