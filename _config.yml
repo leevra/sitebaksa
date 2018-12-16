@@ -14,7 +14,7 @@ permalink: /:title
 github_username:  leevra
 facebook_app_id: 
 favicon:     "/images/favicon.ico"
-aboutme: 제대로 된 사이트 제작을 해보즈아~!! # these are shown on aboutme-sidebar.
+aboutme: 얼마나 양아치인지 돈주고 맡기기 전엔 모른다. 그 위험을 꼭 감수해야만 할까?  # these are shown on aboutme-sidebar.
 aboutme_photo: /images/main.jpg # your photo.
 google_analytics_key:   # put YOUR key here to enable tracking! (blank to disable)
 
