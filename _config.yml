@@ -6,7 +6,7 @@ email: help@leevra.com
 description: "웹사이트 전문 홈페이지제작업체, 사이트박사입니다. 반응형 개인/기업형 쇼핑몰과 홈페이지형블로그 워드프레스 관리 가능한 회사로 무료 견적 상담 가능합니다." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "사이트박사, 기업웹사이트제작, 개인웹사이트제작, 웹사이트제작업체, 쇼핑몰제작업체, 홈페이지제작업체, 웹사이트제작사이트, 웹사이트제작회사, 워드프레스 홈페이지 제작"
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://sitebaksa.leevra.com" # the base hostname & protocol for your site
+url: "https://sitebaksa.leeseungju.com" # the base hostname & protocol for your site
 locale: kr_KO
 permalink: /:title
 
